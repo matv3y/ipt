@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:0,INFO UA: ПЕРШИЙ HD
+http://api.tv.ipnet.ua/api/v1/manifest/2071772180.m3u8?app=playlist
+#EXTINF:0,1+1 HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742531.m3u8?app=playlist
+#EXTINF:0,СТБ HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293297650.m3u8?app=playlist
+#EXTINF:0,ICTV HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293297300.m3u8?app=playlist
+#EXTINF:0,Новий канал HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293298400.m3u8?app=playlist
+#EXTINF:0,TV1000 Action East HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293297200.m3u8?app=playlist
+#EXTINF:0,TV1000 East HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293295550.m3u8?app=playlist
+#EXTINF:0,Paramount Channel HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742547.m3u8?app=playlist
+#EXTINF:0,Hollywood
+http://api.tv.ipnet.ua/api/v1/manifest/2118742585.m3u8?app=playlist
+#EXTINF:0,Hollywood HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742556.m3u8?app=playlist
+#EXTINF:0,Enter-фільм HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293299300.m3u8?app=playlist
+#EXTINF:0,2+2 HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742545.m3u8?app=playlist
+#EXTINF:0,National Geographic
+http://api.tv.ipnet.ua/api/v1/manifest/1293296350.m3u8?app=playlist
+#EXTINF:0,Viasat History
+http://api.tv.ipnet.ua/api/v1/manifest/1293297600.m3u8?app=playlist
+#EXTINF:0,History
+http://api.tv.ipnet.ua/api/v1/manifest/2118742532.m3u8?app=playlist
+#EXTINF:0,Эпоха HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742344.m3u8?app=playlist
+#EXTINF:0,Квартал TV (ru)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742510.m3u8?app=playlist
+#EXTINF:0,Квартал TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742366.m3u8?app=playlist
+#EXTINF:0,AMC
+http://api.tv.ipnet.ua/api/v1/manifest/2118742348.m3u8?app=playlist
+#EXTINF:0,Viasat Explore
+http://api.tv.ipnet.ua/api/v1/manifest/1293295850.m3u8?app=playlist
+#EXTINF:0,2+2
+http://api.tv.ipnet.ua/api/v1/manifest/1340433820.m3u8?app=playlist
+#EXTINF:0,Київ HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?app=playlist
+#EXTINF:0,5 канал HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8?app=playlist
+#EXTINF:0,UA: Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?app=playlist
+#EXTINF:0,English Club TV HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293298200.m3u8?app=playlist
+#EXTINF:0,Viasat Nature
+http://api.tv.ipnet.ua/api/v1/manifest/1340490200.m3u8?app=playlist
+#EXTINF:0,Уніан HD
+http://api.tv.ipnet.ua/api/v1/manifest/265397553.m3u8?app=playlist
+#EXTINF:0,France 24
+http://api.tv.ipnet.ua/api/v1/manifest/1311962630.m3u8?app=playlist
+#EXTINF:0,CNN International
+http://api.tv.ipnet.ua/api/v1/manifest/2118742351.m3u8?app=playlist
+#EXTINF:0,ЕКО-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?app=playlist
+#EXTINF:0,Телевсесвіт
+http://api.tv.ipnet.ua/api/v1/manifest/2118742363.m3u8?app=playlist
+#EXTINF:0,Travel&Adventure HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742560.m3u8?app=playlist
+#EXTINF:0,Lale
+http://api.tv.ipnet.ua/api/v1/manifest/2118742456.m3u8?app=playlist
+#EXTINF:0,NIKI Kids HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742489.m3u8?app=playlist
+#EXTINF:0,NIKI Junior HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742490.m3u8?app=playlist
+#EXTINF:0,MTV 00s
+http://api.tv.ipnet.ua/api/v1/manifest/1822204541.m3u8?app=playlist
+#EXTINF:0,#НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742349.m3u8?app=playlist
+#EXTINF:0,ETHO KAHAJI HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742500.m3u8?app=playlist
+#EXTINF:0,UA: Культура HD
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?app=playlist
+#EXTINF:0,Правда Тут Київ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742444.m3u8?app=playlist
+#EXTINF:0,Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?app=playlist
+#EXTINF:0,Da Vinci learning
+http://api.tv.ipnet.ua/api/v1/manifest/2118742541.m3u8?app=playlist
+#EXTINF:0,KINOKAZKA
+http://api.tv.ipnet.ua/api/v1/manifest/2118742581.m3u8?app=playlist
+#EXTINF:0,Мега HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293294700.m3u8?app=playlist
+#EXTINF:0,ОЦЕ HD
+http://api.tv.ipnet.ua/api/v1/manifest/1309978050.m3u8?app=playlist
+#EXTINF:0,К1 HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293298550.m3u8?app=playlist
+#EXTINF:0,К2 HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293298500.m3u8?app=playlist
+#EXTINF:0,ТЕТ HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742546.m3u8?app=playlist
+#EXTINF:0,ТЕТ
+http://api.tv.ipnet.ua/api/v1/manifest/1293295300.m3u8?app=playlist
+#EXTINF:0,Плюс Плюс
+http://api.tv.ipnet.ua/api/v1/manifest/1293296650.m3u8?app=playlist
+#EXTINF:0,Плюс Плюс HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742552.m3u8?app=playlist
+#EXTINF:0,Прямий HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?app=playlist
+#EXTINF:0,UA: Київ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742484.m3u8?app=playlist
+#EXTINF:0,НТН HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293296100.m3u8?app=playlist
+#EXTINF:0,Бігуді
+http://api.tv.ipnet.ua/api/v1/manifest/1441466470.m3u8?app=playlist
+#EXTINF:0,36,6 TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742512.m3u8?app=playlist
+#EXTINF:0,ПЕРШИЙ АВТОМОБІЛЬНИЙ ТЕЛЕКАНАЛ HD
+http://api.tv.ipnet.ua/api/v1/manifest/1313131180.m3u8?app=playlist
+#EXTINF:0,Кус-Кус HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742537.m3u8?app=playlist
+#EXTINF:0,Рибалка
+http://api.tv.ipnet.ua/api/v1/manifest/2118742548.m3u8?app=playlist
+#EXTINF:0,Food Network
+http://api.tv.ipnet.ua/api/v1/manifest/2118742342.m3u8?app=playlist
+#EXTINF:0,Fashion TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293298100.m3u8?app=playlist
+#EXTINF:0,М1 HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293296950.m3u8?app=playlist
+#EXTINF:0,Zoom HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293297250.m3u8?app=playlist
+#EXTINF:0,4ever music HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742520.m3u8?app=playlist
+#EXTINF:0,М2 HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293297050.m3u8?app=playlist
+#EXTINF:0,Піксель tv HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293295200.m3u8?app=playlist
+#EXTINF:0,Sport 1
+http://api.tv.ipnet.ua/api/v1/manifest/1293297750.m3u8?app=playlist
+#EXTINF:0,Sport 1 Baltic
+http://api.tv.ipnet.ua/api/v1/manifest/2118742439.m3u8?app=playlist
+#EXTINF:0,Sport 2 Baltic
+http://api.tv.ipnet.ua/api/v1/manifest/2118742440.m3u8?app=playlist
+#EXTINF:0,XSport
+http://api.tv.ipnet.ua/api/v1/manifest/726256701.m3u8?app=playlist
+#EXTINF:0,XSport+ HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742583.m3u8?app=playlist
+#EXTINF:0,Новини 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?app=playlist
+#EXTINF:0,Перший діловий
+http://api.tv.ipnet.ua/api/v1/manifest/1313130900.m3u8?app=playlist
+#EXTINF:0,Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?app=playlist
+#EXTINF:0,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?app=playlist
+#EXTINF:0,UA: КРИМ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?app=playlist
+#EXTINF:0,Equalympic
+http://api.tv.ipnet.ua/api/v1/manifest/2118742593.m3u8?app=playlist
+#EXTINF:0,UA FASHION TV HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742542.m3u8?app=playlist
+#EXTINF:0,Star Family HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742492.m3u8?app=playlist
+#EXTINF:0,FILMUADrama HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742522.m3u8?app=playlist
+#EXTINF:0,InRating TV HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742557.m3u8?app=playlist
+#EXTINF:0,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?app=playlist
+#EXTINF:0,Еспресо HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742594.m3u8?app=playlist
+#EXTINF:0,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?app=playlist
+#EXTINF:0,Navigator TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742524.m3u8?app=playlist
+#EXTINF:0,Інтер HD
+http://api.tv.ipnet.ua/api/v1/manifest/1293294900.m3u8?app=playlist
+#EXTINF:0,Настоящее время
+http://api.tv.ipnet.ua/api/v1/manifest/2118742451.m3u8?app=playlist
+#EXTINF:0,Надія
+http://api.tv.ipnet.ua/api/v1/manifest/2118742354.m3u8?app=playlist
+#EXTINF:0,Правда ТУТ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742452.m3u8?app=playlist
+#EXTINF:0,UA: ПЕРШИЙ HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742505.m3u8?app=playlist
+#EXTINF:0,UA: ПЕРШИЙ
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?app=playlist
+#EXTINF:0,Перший західний
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8?app=playlist
+#EXTINF:0,UA: Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?app=playlist
+#EXTINF:0,National Geographic (en)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742435.m3u8?app=playlist
+#EXTINF:0,KINO 1 HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742564.m3u8?app=playlist
+#EXTINF:0,Українське радіо: Перший
+http://api.tv.ipnet.ua/api/v1/manifest/2118742404.m3u8?app=playlist
+#EXTINF:0,Українське радіо: Промінь
+http://api.tv.ipnet.ua/api/v1/manifest/2118742405.m3u8?app=playlist
+#EXTINF:0,Українське радіо: Культура
+http://api.tv.ipnet.ua/api/v1/manifest/2118742387.m3u8?app=playlist
+#EXTINF:0,Megogo Live HD
+http://api.tv.ipnet.ua/api/v1/manifest/2118742530.m3u8?app=playlist
